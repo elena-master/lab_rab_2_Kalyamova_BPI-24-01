@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\лабыыыы\3 курс\вп\мое\Lab_rab_KalyamovaE.A_BPI_24_01_Part2\bin\Debug\Lab_rab_KalyamovaE.A_BPI_24_01_Part2.exe.config
+C:\Users\DELL\Desktop\лабыыыы\3 курс\вп\мое\Lab_rab_KalyamovaE.A_BPI_24_01_Part2\bin\Debug\Lab_rab_KalyamovaE.A_BPI_24_01_Part2.exe
+C:\Users\DELL\Desktop\лабыыыы\3 курс\вп\мое\Lab_rab_KalyamovaE.A_BPI_24_01_Part2\bin\Debug\Lab_rab_KalyamovaE.A_BPI_24_01_Part2.pdb
+C:\Users\DELL\Desktop\лабыыыы\3 курс\вп\мое\Lab_rab_KalyamovaE.A_BPI_24_01_Part2\obj\Debug\Lab_rab_KalyamovaE.A_BPI_24_01_Part2.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\лабыыыы\3 курс\вп\мое\Lab_rab_KalyamovaE.A_BPI_24_01_Part2\obj\Debug\Lab_rab_KalyamovaE.A_BPI_24_01_Part2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\лабыыыы\3 курс\вп\мое\Lab_rab_KalyamovaE.A_BPI_24_01_Part2\obj\Debug\Lab_rab_KalyamovaE.A_BPI_24_01_Part2.exe
+C:\Users\DELL\Desktop\лабыыыы\3 курс\вп\мое\Lab_rab_KalyamovaE.A_BPI_24_01_Part2\obj\Debug\Lab_rab_KalyamovaE.A_BPI_24_01_Part2.pdb
+C:\Users\DELL\Desktop\лабыыыы\3 курс\вп\мое\Lab_rab_KalyamovaE.A_BPI_24_01_Part2\bin\Debug\Lab_rab_KalyamovaE.A_BPI_24_01_Part2.exe.manifest
+C:\Users\DELL\Desktop\лабыыыы\3 курс\вп\мое\Lab_rab_KalyamovaE.A_BPI_24_01_Part2\bin\Debug\Lab_rab_KalyamovaE.A_BPI_24_01_Part2.application
+C:\Users\DELL\Desktop\лабыыыы\3 курс\вп\мое\Lab_rab_KalyamovaE.A_BPI_24_01_Part2\obj\Debug\Lab_rab_KalyamovaE.A_BPI_24_01_Part2.exe.config
+C:\Users\DELL\Desktop\лабыыыы\3 курс\вп\мое\Lab_rab_KalyamovaE.A_BPI_24_01_Part2\obj\Debug\Lab_rab_KalyamovaE.A_BPI_24_01_Part2.exe.manifest
+C:\Users\DELL\Desktop\лабыыыы\3 курс\вп\мое\Lab_rab_KalyamovaE.A_BPI_24_01_Part2\obj\Debug\Lab_rab_KalyamovaE.A_BPI_24_01_Part2.application

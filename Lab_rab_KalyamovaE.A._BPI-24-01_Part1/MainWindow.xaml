@@ -1,0 +1,49 @@
+﻿<Window x:Class="Lab_rab_KalyamovaE.A._BPI_24_01_Part1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Работник" Height="400" Width="600">
+
+    <Grid ShowGridLines="True" Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- фамилия -->
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="Фамилия:" Margin="5" VerticalAlignment="Center"/>
+        <TextBox   Grid.Row="0" Grid.Column="1" x:Name="TbSurname" Margin="5"/>
+
+        <!-- оклад -->
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="Оклад:" Margin="5" VerticalAlignment="Center"/>
+        <TextBox   Grid.Row="1" Grid.Column="1" x:Name="TbSalary" Margin="5"
+                   PreviewTextInput="NumberOnly_PreviewTextInput"
+                   PreviewKeyDown="NoSpace_PreviewKeyDown"/>
+
+        <!-- дата рождения -->
+        <TextBlock Grid.Row="2" Grid.Column="0" Text="Дата рождения (дд.мм.гггг):"
+                   Margin="5" VerticalAlignment="Center"/>
+        <TextBox   Grid.Row="2" Grid.Column="1" x:Name="TbBirthDate" Margin="5"
+                   PreviewTextInput="DateOnly_PreviewTextInput"
+                   PreviewKeyDown="NoSpace_PreviewKeyDown"/>
+
+        <!-- кнопки -->
+        <StackPanel Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2"
+                    Orientation="Horizontal" HorizontalAlignment="Center" Margin="5">
+            <Button x:Name="BtnAge"    Content="Возраст"        Width="160" Margin="5"
+                    Click="BtnAge_Click"/>
+            <Button x:Name="BtnDays50" Content="Дней до 50 лет" Width="160" Margin="5"
+                    Click="BtnDays50_Click"/>
+        </StackPanel>
+
+        <TextBlock Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2"
+                   x:Name="TbResult" Margin="10" FontSize="14"
+                   Foreground="DarkBlue" TextWrapping="Wrap"/>
+    </Grid>
+</Window>

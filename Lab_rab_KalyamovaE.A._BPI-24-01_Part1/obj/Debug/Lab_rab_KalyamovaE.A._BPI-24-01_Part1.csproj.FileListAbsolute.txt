@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Lab_rab_KalyamovaE.A._BPI-24-01_Part1\obj\Debug\Lab_rab_KalyamovaE.A._BPI-24-01_Part1.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Lab_rab_KalyamovaE.A._BPI-24-01_Part1\obj\Debug\MainWindow.baml
+C:\Users\DELL\source\repos\Lab_rab_KalyamovaE.A._BPI-24-01_Part1\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\Lab_rab_KalyamovaE.A._BPI-24-01_Part1\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\Lab_rab_KalyamovaE.A._BPI-24-01_Part1\obj\Debug\Lab_rab_KalyamovaE.A._BPI-24-01_Part1_MarkupCompile.cache
+C:\Users\DELL\source\repos\Lab_rab_KalyamovaE.A._BPI-24-01_Part1\obj\Debug\Lab_rab_KalyamovaE.A._BPI-24-01_Part1.g.resources
+C:\Users\DELL\source\repos\Lab_rab_KalyamovaE.A._BPI-24-01_Part1\obj\Debug\Lab_rab_KalyamovaE.A._BPI_24_01_Part1.Properties.Resources.resources
+C:\Users\DELL\source\repos\Lab_rab_KalyamovaE.A._BPI-24-01_Part1\obj\Debug\Lab_rab_KalyamovaE.A._BPI-24-01_Part1.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Lab_rab_KalyamovaE.A._BPI-24-01_Part1\obj\Debug\Lab_rab_KalyamovaE.A._BPI-24-01_Part1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Lab_rab_KalyamovaE.A._BPI-24-01_Part1\bin\Debug\Lab_rab_KalyamovaE.A._BPI-24-01_Part1.exe.config
+C:\Users\DELL\source\repos\Lab_rab_KalyamovaE.A._BPI-24-01_Part1\bin\Debug\Lab_rab_KalyamovaE.A._BPI-24-01_Part1.exe
+C:\Users\DELL\source\repos\Lab_rab_KalyamovaE.A._BPI-24-01_Part1\bin\Debug\Lab_rab_KalyamovaE.A._BPI-24-01_Part1.pdb
+C:\Users\DELL\source\repos\Lab_rab_KalyamovaE.A._BPI-24-01_Part1\obj\Debug\Lab_rab_KalyamovaE.A._BPI-24-01_Part1.exe
+C:\Users\DELL\source\repos\Lab_rab_KalyamovaE.A._BPI-24-01_Part1\obj\Debug\Lab_rab_KalyamovaE.A._BPI-24-01_Part1.pdb
+C:\Users\DELL\source\repos\Lab_rab_KalyamovaE.A._BPI-24-01_Part1\obj\Debug\Lab_rab_KalyamovaE.A._BPI-24-01_Part1.exe.config
